@@ -1,4 +1,4 @@
-module github.com/swdee/etcdc
+module github.com/pedrobragioni/etcdc
 
 go 1.14
 
@@ -7,6 +7,7 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/prometheus/client_golang v1.7.1
+	github.com/swdee/etcdc v0.0.0-20200917220645-8a3bc4010338
 	go.etcd.io/bbolt v1.3.5
 	go.etcd.io/etcd v0.0.0-20200824191128-ae9734ed278b
 	go.uber.org/zap v1.16.0
@@ -15,6 +16,6 @@ require (
 )
 
 replace (
-	google.golang.org/grpc => google.golang.org/grpc v1.29.1
 	go.etcd.io/etcd => go.etcd.io/etcd v0.0.0-20200824191128-ae9734ed278b
+	google.golang.org/grpc => google.golang.org/grpc v1.29.1
 )
