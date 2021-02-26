@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"context"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 type leasePrefix struct {

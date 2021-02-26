@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 	"go.etcd.io/etcd/integration"
 	"go.etcd.io/etcd/pkg/testutil"

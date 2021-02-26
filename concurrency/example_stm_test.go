@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/concurrency"
+	"github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/concurrency"
 )
 
 // ExampleSTM_apply shows how to use STM with a transactional

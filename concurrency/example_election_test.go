@@ -21,8 +21,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/concurrency"
+	"github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/concurrency"
 )
 
 func ExampleElection_Campaign() {

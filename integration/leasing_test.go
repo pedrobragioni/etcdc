@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/concurrency"
-	"github.com/swdee/etcdc/leasing"
+	"github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/concurrency"
+	"github.com/pedrobragioni/etcdc/leasing"
 	"go.etcd.io/etcd/integration"
 	"go.etcd.io/etcd/pkg/testutil"
 )

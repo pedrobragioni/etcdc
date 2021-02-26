@@ -18,8 +18,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/etcdc.til"
+	"github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/etcdc.til"
 )
 
 func ExampleKeyMissing() {

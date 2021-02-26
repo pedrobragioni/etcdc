@@ -20,7 +20,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/pkg/transport"
 
 	"google.golang.org/grpc/grpclog"

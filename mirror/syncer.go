@@ -18,7 +18,7 @@ package mirror
 import (
 	"context"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 const (

@@ -17,7 +17,7 @@ package leasing
 import (
 	"bytes"
 
-	v3 "github.com/swdee/etcdc"
+	v3 "github.com/pedrobragioni/etcdc"
 	v3pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 )
 

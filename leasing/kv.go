@@ -20,8 +20,8 @@ import (
 	"sync"
 	"time"
 
-	v3 "github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/concurrency"
+	v3 "github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/concurrency"
 	"go.etcd.io/etcd/etcdserver/api/v3rpc/rpctypes"
 	pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 	"go.etcd.io/etcd/mvcc/mvccpb"

@@ -17,7 +17,7 @@ package namespace
 import (
 	"context"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/etcdserver/api/v3rpc/rpctypes"
 	pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 )

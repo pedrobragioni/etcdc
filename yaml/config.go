@@ -22,7 +22,7 @@ import (
 
 	"sigs.k8s.io/yaml"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/pkg/tlsutil"
 )
 

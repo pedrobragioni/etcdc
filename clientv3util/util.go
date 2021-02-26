@@ -16,7 +16,7 @@
 package etcdc.til
 
 import (
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 // KeyExists returns a comparison operation that evaluates to true iff the given

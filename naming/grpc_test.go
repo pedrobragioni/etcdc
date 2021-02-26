@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"testing"
 
-	etcd "github.com/swdee/etcdc"
+	etcd "github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/integration"
 	"go.etcd.io/etcd/pkg/testutil"
 

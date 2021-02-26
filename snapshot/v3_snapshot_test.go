@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/embed"
 	"go.etcd.io/etcd/pkg/fileutil"
 	"go.etcd.io/etcd/pkg/testutil"

@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 // mustWaitPinReady waits up to 3-second until connection is up (pin endpoint).

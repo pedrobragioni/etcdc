@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/etcdserver/api/v3rpc/rpctypes"
 	"go.etcd.io/etcd/integration"
 	"go.etcd.io/etcd/pkg/testutil"

@@ -30,7 +30,7 @@ import (
 
 	"github.com/dustin/go-humanize"
 	bolt "go.etcd.io/bbolt"
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 	"go.etcd.io/etcd/etcdserver"
 	"go.etcd.io/etcd/etcdserver/api/membership"
 	"go.etcd.io/etcd/etcdserver/api/snap"

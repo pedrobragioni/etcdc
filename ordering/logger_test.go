@@ -17,7 +17,7 @@ package ordering
 import (
 	"io/ioutil"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 
 	"google.golang.org/grpc/grpclog"
 )

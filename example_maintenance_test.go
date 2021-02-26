@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 func ExampleMaintenance_status() {

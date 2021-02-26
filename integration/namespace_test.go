@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/swdee/etcdc"
-	"github.com/swdee/etcdc/namespace"
+	"github.com/pedrobragioni/etcdc"
+	"github.com/pedrobragioni/etcdc/namespace"
 	"go.etcd.io/etcd/integration"
 	"go.etcd.io/etcd/mvcc/mvccpb"
 	"go.etcd.io/etcd/pkg/testutil"

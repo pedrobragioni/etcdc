@@ -19,7 +19,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	etcd "github.com/swdee/etcdc"
+	etcd "github.com/pedrobragioni/etcdc"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/naming"

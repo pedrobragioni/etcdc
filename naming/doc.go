@@ -17,8 +17,8 @@
 // To use, first import the packages:
 //
 //	import (
-//		"github.com/swdee/etcdc"
-//		etcdnaming "github.com/swdee/etcdc/naming"
+//		"github.com/pedrobragioni/etcdc"
+//		etcdnaming "github.com/pedrobragioni/etcdc/naming"
 //
 //		"google.golang.org/grpc"
 //		"google.golang.org/grpc/naming"

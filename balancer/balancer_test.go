@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/swdee/etcdc/balancer/picker"
-	"github.com/swdee/etcdc/balancer/resolver/endpoint"
+	"github.com/pedrobragioni/etcdc/balancer/picker"
+	"github.com/pedrobragioni/etcdc/balancer/resolver/endpoint"
 	pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 	"go.etcd.io/etcd/pkg/mock/mockserver"
 

@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	v3 "github.com/swdee/etcdc"
+	v3 "github.com/pedrobragioni/etcdc"
 )
 
 const defaultSessionTTL = 60

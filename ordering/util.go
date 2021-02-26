@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 type OrderViolationFunc func(op etcdc.Op, resp etcdc.OpResponse, prevRev int64) error

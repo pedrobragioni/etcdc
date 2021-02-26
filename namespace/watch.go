@@ -18,7 +18,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/swdee/etcdc"
+	"github.com/pedrobragioni/etcdc"
 )
 
 type watcherPrefix struct {

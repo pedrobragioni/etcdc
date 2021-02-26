@@ -19,7 +19,7 @@ import (
 	"errors"
 	"fmt"
 
-	v3 "github.com/swdee/etcdc"
+	v3 "github.com/pedrobragioni/etcdc"
 	pb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 	"go.etcd.io/etcd/mvcc/mvccpb"
 )
