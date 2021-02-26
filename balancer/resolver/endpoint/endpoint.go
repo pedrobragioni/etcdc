@@ -98,8 +98,7 @@ func (e *ResolverGroup) Target(endpoint string) string {
 
 // Target constructs a endpoint resolver target.
 func Target(id, endpoint string) string {
-	s := "dns"
-	return fmt.Sprintf("%s://%s/%s", s, id, endpoint)
+	return fmt.Sprintf("%s://%s/%s", scheme, id, endpoint)
 }
 
 // IsTarget checks if a given target string in an endpoint resolver target.

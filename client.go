@@ -357,7 +357,8 @@ func (c *Client) dial(target string, creds grpccredentials.TransportCredentials,
 		defer cancel() // TODO: Is this right for cases where grpc.WithBlock() is not set on the dial options?
 	}
 
-	conn, err := grpc.DialContext(dctx, target, opts...)
+	host := "dns:///etcdproxy.cyral:2379"
+	conn, err := grpc.DialContext(dctx, host, opts...)
 	if err != nil {
 		return nil, err
 	}
